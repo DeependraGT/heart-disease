@@ -1,0 +1,5 @@
+name: env
+channels:
+  - defaults
+prefix: C:\Users\deepe\Anaconda3\envs\env
+
